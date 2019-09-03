@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29025.244
+VisualStudioVersion = 16.0.29001.49
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentRankingApplication", "StudentRankingApplication.csproj", "{7D2FDC5B-E7F5-4D68-B0D8-E5C87B6848FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentRankingApplication", "StudentRankingApplication.csproj", "{6C354EB1-56F6-47AF-B65C-00B7409F7152}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7D2FDC5B-E7F5-4D68-B0D8-E5C87B6848FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7D2FDC5B-E7F5-4D68-B0D8-E5C87B6848FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7D2FDC5B-E7F5-4D68-B0D8-E5C87B6848FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7D2FDC5B-E7F5-4D68-B0D8-E5C87B6848FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C354EB1-56F6-47AF-B65C-00B7409F7152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C354EB1-56F6-47AF-B65C-00B7409F7152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C354EB1-56F6-47AF-B65C-00B7409F7152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C354EB1-56F6-47AF-B65C-00B7409F7152}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9818CCC8-FDA8-47DF-8CD1-4C36D9285489}
+		SolutionGuid = {5C41F29E-A3F0-4BFE-80D8-2F3C61D92CA5}
 	EndGlobalSection
 EndGlobal

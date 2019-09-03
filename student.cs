@@ -1,10 +1,11 @@
-﻿using System;
+﻿//using Nest;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace StudentRankingApplication
 {
-    class student
+    class Student
     {
 
         public string name { get; set; }
@@ -14,7 +15,7 @@ namespace StudentRankingApplication
         public int total { get; set; }
         public int position { get; set; }
 
-        public student(string name, int maths, int english, int science)
+        public Student(string name, int maths, int english, int science)
         {
 
             this.name = name;
